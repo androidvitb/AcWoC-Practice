@@ -27,7 +27,7 @@ Welcome to the ACWOC Practice Repository! This repository is designed to help co
    ```
 5. **Make changes and commit your changes:**:
    ```bash
-    git commit -m "Your commit message"
+    git commit -m "Your commit messages"
    ```
 6. **Push your branch to your fork:**:
    ```bash
