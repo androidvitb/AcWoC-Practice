@@ -89,8 +89,8 @@ html{
     background-color: #005f6b;
 }
 
-/* About and Contribute Sections */
-.about,.contribute {
+/* About, Contribute and Contact Sections */
+.about,.contribute,.contact {
     padding: 3rem 1rem;
     background-color: white;
     margin: 1rem 0;
