@@ -1,6 +1,6 @@
 # ACWOC Practice Repository
 
-Note: Contributing to this Repository wont be counted towards AcWoC'25. Its for Practice Only
+Note: Contributing to this Repository wont be counted towards AcWoC'26. Its for Practice Only
 
 ## About
 Welcome to the ACWOC Practice Repository! This repository is designed to help contributors practice open-source contributions in a collaborative environment. Here, you can:
